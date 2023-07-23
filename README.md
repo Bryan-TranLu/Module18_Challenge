@@ -8,14 +8,7 @@ This assigment creates a blockchain using python and runs the script using strea
 The ipynb file is under `pychain.py`.
 
 ## Installation Requirements
-If using Google Colab, installing the following libraries are required prior to running the script:
-```python
-!pip install tensorflow
-!pip install keras
-!pip install sklearn
-```
-
-Once installed, import the following:
+Import the following:
 ```python
 import streamlit as st
 from dataclasses import dataclass
