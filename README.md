@@ -17,13 +17,12 @@ If using Google Colab, installing the following libraries are required prior to 
 
 Once installed, import the following:
 ```python
+import streamlit as st
+from dataclasses import dataclass
+from typing import Any, List
+import datetime as datetime
 import pandas as pd
-from pathlib import Path
-import tensorflow as tf
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.models import Sequential
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler,OneHotEncoder
+import hashlib
 ```
 
 ## Authors and Support
