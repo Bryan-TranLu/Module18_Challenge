@@ -20,7 +20,7 @@ import hashlib
 
 ## Images
 
-<a href="" target="_blank" rel="noreferrer"><img src="Images/Feature Importance.png" width="" height="300" alt="" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="st_screenshot.png" width="" height="300" alt="" /></a>
 
 ## Authors and Support
 If there are any questions regarding the assignment, please reach out via email.
