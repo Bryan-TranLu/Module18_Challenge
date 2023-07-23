@@ -5,7 +5,7 @@ Submission for Bryan Tran Lu.
 This assigment creates a blockchain using python and runs the script using streamlit.
 
 ## Instructions
-The ipynb file is under `GC_venture_funding_with_deep_learning.ipynb`.
+The ipynb file is under `pychain.py`.
 
 ## Installation Requirements
 If using Google Colab, installing the following libraries are required prior to running the script:
