@@ -19,7 +19,7 @@ import hashlib
 ```
 
 ## Images
-
+Input areas for the user interface of the Streamlit application.
 <a href="" target="_blank" rel="noreferrer"><img src="st_screenshot.png" width="" height="300" alt="" /></a>
 
 ## Authors and Support
