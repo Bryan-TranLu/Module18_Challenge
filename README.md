@@ -2,10 +2,10 @@
 Submission for Bryan Tran Lu. 
 
 ## Description
-This assigment creates a blockchain using python and runs the script using streamlit.
+This assigment creates a blockchain using python and runs the script using Streamlit for a user friendly interface.
 
 ## Instructions
-The ipynb file is under `pychain.py`.
+The py file is under `pychain.py`.
 
 ## Installation Requirements
 Import the following:
@@ -20,6 +20,7 @@ import hashlib
 
 ## Images
 Input areas for the user interface of the Streamlit application.
+
 <a href="" target="_blank" rel="noreferrer"><img src="st_screenshot.png" width="" height="300" alt="" /></a>
 
 ## Authors and Support
